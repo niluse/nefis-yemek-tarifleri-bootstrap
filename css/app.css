@@ -1,0 +1,14 @@
+/*-----fixed nav-----*/
+.navbar-nav{
+    display: flex !important;
+    flex-direction: row !important;
+}
+.nav-link{
+    display: inline-flex;
+}
+.sag{
+    float: right;
+}
+.sag span{
+    padding-right: 0.5rem;
+}
